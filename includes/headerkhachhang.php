@@ -11,7 +11,7 @@
     <header class="dau-trang">
         <div class="container">
             <div class="logo">
-                <a href="index.php">KHÁCH SẠN Thuy Quyen</a>
+                <a href="index.php">KHÁCH SẠN Thuy Quyen ABC</a>
             </div>
 
             <nav class="thanh-dieu-huong">
