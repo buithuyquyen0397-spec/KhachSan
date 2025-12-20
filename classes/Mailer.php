@@ -40,7 +40,7 @@ class Mailer {
         $dataSend = [
             "sender" => [
                 "name" => "Khách sạn ABC Luxury",
-                "email" => "luongvanthang1301@gmail.com" // Email này phải trùng email đăng nhập Brevo
+                "email" => "buithuyquyen0397@gmail.com" // Email này phải trùng email đăng nhập Brevo
             ],
             "to" => [
                 [
