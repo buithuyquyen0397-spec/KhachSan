@@ -1,5 +1,5 @@
 <?php
-$tieuDeTrang = "Giới thiệu - Khách sạn ABC";
+$tieuDeTrang = "Giới thiệu - Khách sạn DIYEN";
 include '../includes/headerkhachhang.php';
 ?>
 
@@ -18,9 +18,9 @@ include '../includes/headerkhachhang.php';
                 <img src="../images/hoboi.jpg" alt="Sảnh khách sạn" class="detail-img">
             </div>
             <div class="col-info">
-                <h2 style="color: #d4af37; margin-bottom: 20px;">Câu chuyện của ABC Hotel</h2>
-                <p>Được thành lập vào năm 2010, Khách sạn ABC tọa lạc tại vị trí "tựa sơn hướng thủy" đắc địa nhất của thành phố biển xinh đẹp. Khởi đầu từ một khách sạn boutique nhỏ, qua hơn một thập kỷ phát triển, chúng tôi đã vươn mình trở thành biểu tượng nghỉ dưỡng 5 sao hàng đầu khu vực.</p>
-                <p>Với sứ mệnh mang lại "Ngôi nhà thứ hai" cho du khách, ABC Hotel không chỉ cung cấp nơi lưu trú, mà còn là nơi lưu giữ những khoảnh khắc hạnh phúc của bạn bên gia đình và người thân.</p>
+                <h2 style="color: #d4af37; margin-bottom: 20px;">Câu chuyện của DIYEN Hotel</h2>
+                <p>Được thành lập vào năm 2010, Khách sạn tọa lạc tại vị trí "tựa sơn hướng thủy" đắc địa nhất của thành phố biển xinh đẹp. Khởi đầu từ một khách sạn boutique nhỏ, qua hơn một thập kỷ phát triển, chúng tôi đã vươn mình trở thành biểu tượng nghỉ dưỡng 5 sao hàng đầu khu vực.</p>
+                <p>Với sứ mệnh mang lại "Ngôi nhà thứ hai" cho du khách, DIYEN Hotel không chỉ cung cấp nơi lưu trú, mà còn là nơi lưu giữ những khoảnh khắc hạnh phúc của bạn bên gia đình và người thân.</p>
             </div>
         </div>
     </section>
@@ -36,7 +36,7 @@ include '../includes/headerkhachhang.php';
                     </div>
                     <div class="service-content">
                         <h3 class="service-title">Spa & Sức khỏe</h3>
-                        <p class="service-desc">Tái tạo năng lượng tại ABC Spa với các liệu trình massage trị liệu cổ truyền kết hợp thảo dược thiên nhiên.</p>
+                        <p class="service-desc">Tái tạo năng lượng tại DIYEN Spa với các liệu trình massage trị liệu cổ truyền kết hợp thảo dược thiên nhiên.</p>
                     </div>
                 </div>
 
@@ -67,7 +67,7 @@ include '../includes/headerkhachhang.php';
         <div class="zigzag-wrapper">
             <div class="col-info">
                 <h2 style="color: #333; margin-bottom: 15px;">Tinh Hoa Ẩm Thực</h2>
-                <p>Không chỉ là nơi nghỉ dưỡng, ABC Hotel còn là điểm đến lý tưởng cho những tín đồ ẩm thực. Nhà hàng buffet sáng phục vụ hơn 50 món ăn đa dạng.</p>
+                <p>Không chỉ là nơi nghỉ dưỡng, DIYEN Hotel còn là điểm đến lý tưởng cho những tín đồ ẩm thực. Nhà hàng buffet sáng phục vụ hơn 50 món ăn đa dạng.</p>
             </div>
             <div class="col-image">
                 <img src="../images/amthuc.jpg" class="detail-img">

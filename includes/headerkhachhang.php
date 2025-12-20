@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?php echo isset($tieuDeTrang) ? $tieuDeTrang : 'Khách sạn ABC'; ?></title>
+    <title><?php echo isset($tieuDeTrang) ? $tieuDeTrang : 'Khách sạn DIYEN'; ?></title>
     <link rel="stylesheet" href="../css/stylekhachhang.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>
@@ -11,7 +11,7 @@
     <header class="dau-trang">
         <div class="container">
             <div class="logo">
-                <a href="index.php">KHÁCH SẠN Thuy Quyen ABC</a>
+                <a href="index.php">KHÁCH SẠN DIYEN</a>
             </div>
 
             <nav class="thanh-dieu-huong">

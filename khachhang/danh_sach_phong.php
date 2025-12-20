@@ -1,7 +1,7 @@
 <?php
 // 1. CẤU HÌNH & KHỞI TẠO
 require_once '../classes/LoaiPhong.php'; // Nhúng class
-$tieuDeTrang = "Danh sách phòng - Khách sạn ABC";
+$tieuDeTrang = "Danh sách phòng - Khách sạn DIYEN";
 include '../includes/headerkhachhang.php';
 
 $loaiPhongObj = new LoaiPhong(); // Khởi tạo đối tượng

@@ -1,7 +1,7 @@
 <?php
 require_once '../classes/LienHe.php';
 
-$tieuDeTrang = "Liên hệ - Khách sạn ABC";
+$tieuDeTrang = "Liên hệ - Khách sạn DIYEN";
 include '../includes/headerkhachhang.php';
 
 $thongBao = "";
@@ -74,7 +74,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
                     <div style="margin-bottom: 20px;">
                         <p style="margin-bottom: 10px;"><i class="fas fa-envelope" style="color: #d4af37; width: 20px;"></i> <strong>Email:</strong></p>
-                        <p style="color: #666;">contact@abchotel.com</p>
+                        <p style="color: #666;">contact@diyenhotel.com</p>
                     </div>
 
                     <div class="map-container">

@@ -19,7 +19,7 @@ $trangHienTai = basename($_SERVER['PHP_SELF']);
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Quản trị hệ thống - ABC Hotel</title>
+    <title>Quản trị hệ thống - DIYEN Hotel</title>
     
     <link rel="stylesheet" href="../css/styleadmin.css">
     
@@ -36,7 +36,7 @@ $trangHienTai = basename($_SERVER['PHP_SELF']);
                 <div class="admin-brand">
                     <a href="quan_ly_don.php">
                         <i class="fas fa-hotel"></i> 
-                        <span>Hotel ABC</span>
+                        <span>Hotel DIYEN</span>
                     </a>
                 </div>
 

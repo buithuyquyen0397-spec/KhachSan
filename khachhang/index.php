@@ -1,6 +1,6 @@
 <?php 
 // 1. Cấu hình & Class
-$tieuDeTrang = "Trang chủ - Khách sạn ABC Luxury";
+$tieuDeTrang = "Trang chủ - Khách sạn DIYEN Luxury";
 require_once '../classes/LoaiPhong.php'; 
 
 // Khởi tạo đối tượng để lấy dữ liệu phòng
@@ -20,7 +20,7 @@ include '../includes/headerkhachhang.php';
         <div class="overlay"></div>
         <div class="intro-content">
             <span class="sub-title">Chào mừng đến với</span>
-            <h1 class="intro-title">Thuy Quyen LUXURY HOTEL</h1>
+            <h1 class="intro-title">DIYEN LUXURY HOTEL</h1>
             <p class="intro-desc">
                 Nơi hội tụ tinh hoa kiến trúc và dịch vụ đẳng cấp 5 sao.<br>
                 Hãy để chúng tôi kể câu chuyện về kỳ nghỉ mơ ước của bạn.

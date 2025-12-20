@@ -39,7 +39,7 @@ class Mailer {
         // Cấu trúc dữ liệu gửi lên Brevo API
         $dataSend = [
             "sender" => [
-                "name" => "Khách sạn ABC Luxury",
+                "name" => "Khách sạn DIYEN Luxury",
                 "email" => "buithuyquyen0397@gmail.com" // Email này phải trùng email đăng nhập Brevo
             ],
             "to" => [

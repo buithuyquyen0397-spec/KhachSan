@@ -3,7 +3,7 @@
 require_once '../classes/LoaiPhong.php';
 require_once '../classes/DatPhong.php';
 
-$tieuDeTrang = "Hoàn tất đặt phòng - Khách sạn ABC";
+$tieuDeTrang = "Hoàn tất đặt phòng - Khách sạn DIYEN";
 include '../includes/headerkhachhang.php';
 
 // 2. CHECK DỮ LIỆU ĐẦU VÀO
@@ -96,7 +96,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             
             <div class="success-header">
                 <div class="success-icon"><i class="fas fa-hotel"></i></div>
-                <h2 style="margin: 0; font-size: 2rem;">Khách Sạn ABC</h2>
+                <h2 style="margin: 0; font-size: 2rem;">Khách Sạn DIYEN</h2>
                 <p style="opacity: 0.9; margin-top: 10px;">Cảm ơn <strong><?php echo htmlspecialchars($ten); ?></strong>, đơn hàng của bạn đã được khởi tạo.</p>
             </div>
 
