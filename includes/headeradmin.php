@@ -35,7 +35,7 @@ $trangHienTai = basename($_SERVER['PHP_SELF']);
                 
                 <div class="admin-brand">
                     <a href="quan_ly_don.php">
-                        <img src="../images/diyen.jpg" width="55%">
+                        <img src="../images/diyen.jpg" width="55px">
                         <span>Hotel DIYEN</span>
                     </a>
                 </div>
