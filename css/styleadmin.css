@@ -696,3 +696,7 @@ body.login-body {
 .login-card a:hover {
     color: #d4af37 !important; /* Hover chuyển màu vàng */
 }
+.login-header img {
+    display: block;
+    margin: 0 auto 15px auto; /* 0: trên dưới, auto: căn giữa trái phải, 15px: khoảng cách dưới */
+}
