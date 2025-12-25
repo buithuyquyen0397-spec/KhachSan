@@ -36,8 +36,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <body class="login-body">
     <div class="login-card">
         <div class="login-header">
-            <i class="fas fa-hotel"></i>
-            <h2>Khách Sạn ABC</h2>
+            <img src="../images/diyen.jpg" width="55px">
+            <h2>Khách Sạn DIYEN</h2>
             <p>Hệ thống quản lý dành cho Admin</p>
         </div>
 
